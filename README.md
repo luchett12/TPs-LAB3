@@ -17,9 +17,19 @@ Nació de la falta de una biblioteca existente para leer / escribir de forma nat
 
 Todas las felicitaciones al equipo de PHPExcel ya que openpyxl se basó inicialmente en PHPExcel.
 
-# <center>LINKS IMPORTANTES
+
+# <center>DOCUMENTACION
 
  
 
- - [Pagina Oficial OpenPyXL](https://pypi.org/project/openpyxl/)
- - [Pagina Oficial Python](https://www.python.org/downloads/)
+ La documentacion esta en: [Documentacion](La%20documentaci%C3%B3n%20est%C3%A1%20en)
+ 
+
+ - Metodos De Instalacion
+ - Ejemplos De Codigo
+ - Instrucciones Para Contribuir
+ 
+  [Pagina Oficial Python](https://www.python.org/downloads/)
+# <center>INSTALACION
+
+Instale **openpyxl** usando pip. Es recomendable hacer esto en un virtualenv: `$ pip install openpyxl`
